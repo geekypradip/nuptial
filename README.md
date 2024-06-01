@@ -12,16 +12,6 @@ This website is built using the following technologies:
 - Sass
 - JavaScript
 
-## Getting Started
 
-To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository
-```bash
-git clone https://github.com/your_username_/Project-Name.git
-```
-2. Navigate to the project directory
-```bash
-cd Project-Name
-```
-3. Open the index.html file in your web browser or visit the live demo [here](https://geekypradip.github.io/nuptial/).
+Visit the live demo [here](https://geekypradip.github.io/nuptial/).
