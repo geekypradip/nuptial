@@ -24,3 +24,4 @@ git clone https://github.com/your_username_/Project-Name.git
 ```bash
 cd Project-Name
 ```
+3. Open the index.html file in your web browser or visit the live demo [here](https://geekypradip.github.io/nuptial/).
